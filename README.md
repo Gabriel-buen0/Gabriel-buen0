@@ -1,8 +1,11 @@
 ---
-# 🎉Olá! Eu sou Gabriel / Hi! I'm Gabriel
+# 🎉Olá! Eu sou Gabriel! / Hi! I'm Gabriel!
 
 Sejá bem-vindo(a) ao meu GitHub!
+
 Sou formado em Análise e Desenvolvimento de Sistemas e estou sempre em busca de aprimoramento em desenvolvimento back-end e APIs. Neste GitHub, compartilho minha evolução e projetos ao longo do tempo!
+
+Be welcome to my GitHub!
 
 I have a degree in Systems Analysis and Development, and I am always seeking to improve my skills in back-end development and APIs. On this GitHub, I share my progress and projects over time!
 #
