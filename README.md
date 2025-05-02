@@ -12,7 +12,7 @@ I have a degree in Systems Analysis and Development, and I am always seeking to 
 
 
 - 🚀 **Em busca da vaga em Back-End**
-- 📖 **Estudando no momento:** Java e Spring Boot
+- 📖 **Estudando no momento:** Node.js
 - 💡 **Interesses:** Arquitetura de Software, microsserviços e APIs REST
 - 🤝 **Colaborações sempre são bem vindas!!**
 - 📧 **Contato:** buenos.gabrielf@gmail.com
